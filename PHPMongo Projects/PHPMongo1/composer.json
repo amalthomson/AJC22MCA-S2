@@ -1,0 +1,11 @@
+{
+    "name": "amalthomson/php-mongo",
+    "autoload": {
+        "psr-4": {
+            "Amalthomson\\PhpMongo\\": "src/"
+        }
+    },
+    "require": {
+        "mongodb/mongodb": "^1.12"
+    }
+}

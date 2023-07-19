@@ -1,0 +1,7 @@
+{ 
+    "name":"php-mongodb",
+    "description":"Crud with php and mongodb",
+    "require": {
+        "mongodb/mongodb": "^1.5"
+    }
+}
