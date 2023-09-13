@@ -1,0 +1,3 @@
+/home/mca/Desktop/cmake/CMakeFiles/rebuild_cache.dir
+/home/mca/Desktop/cmake/CMakeFiles/edit_cache.dir
+/home/mca/Desktop/cmake/CMakeFiles/result.out.dir
